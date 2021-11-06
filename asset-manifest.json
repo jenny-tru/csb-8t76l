@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://jenny-tru.github.io/csb-8t76l/static/css/main.5ccaad42.chunk.css",
+    "main.js": "https://jenny-tru.github.io/csb-8t76l/static/js/main.4d8270db.chunk.js",
+    "main.js.map": "https://jenny-tru.github.io/csb-8t76l/static/js/main.4d8270db.chunk.js.map",
+    "runtime-main.js": "https://jenny-tru.github.io/csb-8t76l/static/js/runtime-main.1056ccef.js",
+    "runtime-main.js.map": "https://jenny-tru.github.io/csb-8t76l/static/js/runtime-main.1056ccef.js.map",
+    "static/js/2.adb79eb2.chunk.js": "https://jenny-tru.github.io/csb-8t76l/static/js/2.adb79eb2.chunk.js",
+    "static/js/2.adb79eb2.chunk.js.map": "https://jenny-tru.github.io/csb-8t76l/static/js/2.adb79eb2.chunk.js.map",
+    "index.html": "https://jenny-tru.github.io/csb-8t76l/index.html",
+    "static/css/main.5ccaad42.chunk.css.map": "https://jenny-tru.github.io/csb-8t76l/static/css/main.5ccaad42.chunk.css.map",
+    "static/js/2.adb79eb2.chunk.js.LICENSE.txt": "https://jenny-tru.github.io/csb-8t76l/static/js/2.adb79eb2.chunk.js.LICENSE.txt",
+    "static/media/African-dancer.152fe350.jpeg": "https://jenny-tru.github.io/csb-8t76l/static/media/African-dancer.152fe350.jpeg",
+    "static/media/Agusta-savage-gamin.86e868d7.jpg": "https://jenny-tru.github.io/csb-8t76l/static/media/Agusta-savage-gamin.86e868d7.jpg",
+    "static/media/Sargent-johnson-mother-and-child.54a2ea9f.jpg": "https://jenny-tru.github.io/csb-8t76l/static/media/Sargent-johnson-mother-and-child.54a2ea9f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1056ccef.js",
+    "static/js/2.adb79eb2.chunk.js",
+    "static/css/main.5ccaad42.chunk.css",
+    "static/js/main.4d8270db.chunk.js"
+  ]
+}
